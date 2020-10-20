@@ -1,0 +1,39 @@
+body {
+  margin: auto;
+  text-align: center;
+  background: #DED2D0;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 50px auto;
+  color: #D17D6B;
+}
+
+.player1 {
+  color: #D17D6B;
+  display: inline-block;
+  margin-right: 130px;
+}
+
+.player2 {
+  color: #D17D6B;
+  display: inline-block;
+  margin-left: 130px;
+}
+
+.image1 {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.image2 {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 15%;
+}
